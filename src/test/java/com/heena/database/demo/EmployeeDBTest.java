@@ -23,6 +23,9 @@ public class EmployeeDBTest
 
 	static EmployeeDb db = null;
 
+	/**
+	This method run only once.
+	*/
 	@BeforeClass
 	public static void creteConnection()
 	{
