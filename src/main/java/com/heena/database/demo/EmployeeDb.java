@@ -18,6 +18,7 @@ public class EmployeeDb
 		} catch (ClassNotFoundException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
+			e.printStackTrace();
 		}
 		try {
 			con= DriverManager.getConnection( url, userName, password);
