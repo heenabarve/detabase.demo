@@ -36,6 +36,9 @@ public class EmployeeDb
 		} catch (SQLException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
+			e.printStackTrace();
+			e.printStackTrace();
+			e.printStackTrace();
 		}
 	}
 	
